@@ -18,7 +18,7 @@ __________Group 5__________
 _____________________________
 
 - Document: docs/review.docx
-- Link: https://drive.google.com/file/d/1wIzfTp8NXXbe455LWPWOmlSU12AtiyGL/view?usp=share_link
+- Link Drive Code: https://drive.google.com/file/d/1wIzfTp8NXXbe455LWPWOmlSU12AtiyGL/view?usp=share_link
 
 *Note: it's refreshed from the old one so there will be some changes, but the overall goal remains the same.
 
